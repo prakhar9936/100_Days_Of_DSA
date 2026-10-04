@@ -1,0 +1,311 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Leetcode_03_162FindPeakIndex",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Leetcode_03_162FindPeakIndex",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Leetcode_02_Search2DMatixII",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Leetcode_02_Search2DMatixII",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Leetcode_01_SearchA2Dmatrix",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Leetcode_01_SearchA2Dmatrix",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P6_IndexOfTargetWhenDuplicatedArrayIsRotated",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P6_IndexOfTargetWhenDuplicatedArrayIsRotated",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P5_findTargetIndexInRotatedSortedArray",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P5_findTargetIndexInRotatedSortedArray",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P4_findMinRotatedArray",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P4_findMinRotatedArray",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P3_LastOccurences",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P3_LastOccurences",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P2_RoundOff",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P2_RoundOff",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P1_FirstOccurenceOfElement",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P1_FirstOccurenceOfElement",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_05a__binarySearchingRecursive",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_05a__binarySearchingRecursive",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_05_binarySearch",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_05_binarySearch",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P5a_Sort_0_1_2",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P5a_Sort_0_1_2",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P5_Sort_0_1_2",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P5_Sort_0_1_2",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P4_partition",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P4_partition",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P4_PostiveAndNegativeNumberArrangement",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P4_PostiveAndNegativeNumberArrangement",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P2_SortingOfSwapOneElementInArray",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P2_SortingOfSwapOneElementInArray",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S4_QuickSort",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.S4_QuickSort",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S4_mergeSort",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.S4_mergeSort",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P2_sortNameOfFruit",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P2_sortNameOfFruit",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "P1_moveZeroToEnd",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.P1_moveZeroToEnd",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S3_InsertionSort",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.S3_InsertionSort",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.SelectionSort",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.bubbleSort",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_09_keyCombination",
+      "request": "launch",
+      "mainClass": "String.S_09_keyCombination",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_08_frogJump",
+      "request": "launch",
+      "mainClass": "String.S_08_frogJump",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S07_sumOfSubsetInSubsequemces",
+      "request": "launch",
+      "mainClass": "String.S07_sumOfSubsetInSubsequemces",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S06b_SubsequencesWithVoidReturnType",
+      "request": "launch",
+      "mainClass": "String.S06b_SubsequencesWithVoidReturnType",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S06a_SubsequencesRecursive",
+      "request": "launch",
+      "mainClass": "String.S06a_SubsequencesRecursive",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_06_Subsequences",
+      "request": "launch",
+      "mainClass": "String.S_06_Subsequences",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_05_PalindromeInInteger",
+      "request": "launch",
+      "mainClass": "String.S_05_PalindromeInInteger",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_04b_palindromeWithTwoPointer",
+      "request": "launch",
+      "mainClass": "String.S_04b_palindromeWithTwoPointer",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_4b_palindromeWithTwoPointer",
+      "request": "launch",
+      "mainClass": "String.S_4b_palindromeWithTwoPointer",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_4a_palindromeRecursive",
+      "request": "launch",
+      "mainClass": "String.S_4a_palindromeRecursive",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_4_palindrome",
+      "request": "launch",
+      "mainClass": "String.S_4_palindrome",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_03a_reverseRecursive",
+      "request": "launch",
+      "mainClass": "String.S_03a_reverseRecursive",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_04_reverseRecursive",
+      "request": "launch",
+      "mainClass": "String.S_04_reverseRecursive",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_03_reverse",
+      "request": "launch",
+      "mainClass": "String.S_03_reverse",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_02b_RemoveAllOccurence",
+      "request": "launch",
+      "mainClass": "String.S_02b_RemoveAllOccurence",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S2_RemoveAllOccurrences",
+      "request": "launch",
+      "mainClass": "String.S2_RemoveAllOccurrences",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S2_RemoveAllOcurrences",
+      "request": "launch",
+      "mainClass": "String.S2_RemoveAllOcurrences",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S1_basic",
+      "request": "launch",
+      "mainClass": "String.S1_basic",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/prakh/OneDrive/Desktop/dsa",
+      "program": "c:/Users/prakh/OneDrive/Desktop/dsa/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
