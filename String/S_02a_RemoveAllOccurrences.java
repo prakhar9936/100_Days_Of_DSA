@@ -1,7 +1,6 @@
 package String;
 
 public class S_02a_RemoveAllOccurrences {
-
     public static void main(String[] args) {
         String s ="abcax";
         //iterative method

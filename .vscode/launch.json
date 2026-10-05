@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SB_01_basic",
+      "request": "launch",
+      "mainClass": "String.StringAndStringBuilder.SB_01_basic",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_03_InterningAndNew",
+      "request": "launch",
+      "mainClass": "String.StringAndStringBuilder.S_03_InterningAndNew",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_P01_PrintAllSubString",
+      "request": "launch",
+      "mainClass": "String.StringAndStringBuilder.S_P01_PrintAllSubString",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_02_basic2",
+      "request": "launch",
+      "mainClass": "String.StringAndStringBuilder.S_02_basic2",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_01_basic",
+      "request": "launch",
+      "mainClass": "String.StringAndStringBuilder.S_01_basic",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "S_02a_RemoveAllOccurrences",
+      "request": "launch",
+      "mainClass": "String.S_02a_RemoveAllOccurrences",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P7_DistributeChocolates",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P7_DistributeChocolates",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
+      "name": "Searching_P5_DistributeChocolates",
+      "request": "launch",
+      "mainClass": "sortingAndSearching.Searching_P5_DistributeChocolates",
+      "projectName": "dsa_6cd125a6"
+    },
+    {
+      "type": "java",
       "name": "Leetcode_03_162FindPeakIndex",
       "request": "launch",
       "mainClass": "sortingAndSearching.Leetcode_03_162FindPeakIndex",

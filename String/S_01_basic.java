@@ -7,15 +7,10 @@ public class S_01_basic {
         Scanner sc = new Scanner(System.in);
         // String s = sc.next();//hello world
         // System.out.println(s);//hello
-
         String s1 = sc.nextLine();//hello world
         System.out.println(s1);//hello world
-
-
-         
         char ch = s1.charAt(0);//hello world
         System.out.println(ch);
-
         for(int i = 0 ;i<s1.length();i++){
             System.out.println(s1.charAt(i));
         }
